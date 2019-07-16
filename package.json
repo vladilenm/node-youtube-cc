@@ -1,0 +1,22 @@
+{
+  "name": "node-youtube",
+  "version": "1.0.0",
+  "description": "Node JS Course for youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Vladilen Minin <vladilen@dev.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

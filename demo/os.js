@@ -12,4 +12,4 @@ console.log('Всего памяти: ', os.totalmem())
 
 console.log('Домашняя директория: ', os.homedir())
 
-console.log('Влючен: ', os.uptime())
+console.log('Включен: ', os.uptime())
